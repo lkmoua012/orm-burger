@@ -1,0 +1,22 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    list-style-type: none;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-form {
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .jumbotron {
+    background: blue;
+  }

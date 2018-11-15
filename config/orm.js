@@ -34,7 +34,7 @@ function objToSql(ob) {
     }
 
     return arr.toString();
-    
+
 }
 
 var orm = {
